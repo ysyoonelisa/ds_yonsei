@@ -1,0 +1,112 @@
+---
+title: 'Ethical Issues'
+author: "ysyoon"
+date: '2019 4 17 '
+output: word_document
+---
+
+
+# 11.7 Research about Ethical Issues in Survey
+
+
+**Survey researchers가 마주하게 되는 두가지 윤리적 이슈**
+
+
+## 1)Obtaining respondents informed consent for participation
+
+
+_(사전설명동의 후 동의서를 받는 것 : 사전 설명 동의의 구성요소는 다음 <https://viceprovost.tufts.edu/sberirb/submission-process/submit/consent-flowchart/elements-of-informed-consent/>에서 확인할 수 있음.)_
+
+  
+## 2)Maintaing the confidentiality of thier replies
+
+
+_(응답의 기밀유지-대상자들의 해를 입을 위험이 있음-11.5.4)_
+
+
+## 11.7.1 Research on Informed Consent protocols
+
+
+### 1) Research on respondents' reactions to the Informed consent protocols
+_(사전설명동의 규약에 대한 대상자의 반응에 관한 연구)_
+
+
+![Ethical issues 1]<img width="324" alt="Ethic1" src="https://user-images.githubusercontent.com/49752061/56450337-4bb9f880-6360-11e9-99a8-e6d60aacbbb7.PNG">
+
+
+![Ethical issues 2]<img width="435" alt="Ethic2" src="https://user-images.githubusercontent.com/49752061/56450356-815ee180-6360-11e9-872a-251fc9025f65.PNG">
+
+
+
+- 간략하고 모호한 설명 : 여가시간에 관한 연구
+
+
+- 자세한 설명 : 음주, 마약, 성생활에 관한 연구
+
+
+> 응답률, 응답거절률, 응답의 질에는 영향을 미치지 않음. 질문을 받을 때 당혹스러움의 차이
+
+
+- 연구자들의 관행 : 편견을 갖지 않도록 목적은 간략히 설명, 대상자들은 소개를 짧게 하는 것을 선호함.
+
+
+- 대상자들의 선호 : 65% 이상은 사전 설명 요구, 25% 이상은 사후 설명 요구
+
+
+> 응답의 질, 속도에 영향을 미치지 않음. 응답에 영향을 미치더라도 대상자들은 설명을 원함.
+
+
+![]<img width="448" alt="Ethic3" src="https://user-images.githubusercontent.com/49752061/56450580-19a99600-6362-11e9-9d31-2dca4fa16474.PNG">
+
+
+![]<img width="365" alt="Ethic4" src="https://user-images.githubusercontent.com/49752061/56450592-2ded9300-6362-11e9-9cf7-72ba6c5da831.PNG">
+
+
+> 위의 연구결과와달리 실험실 연구에서는 정보량이 연구결과에 영향을 미침.
+
+|저자|연구결과|
+|:--|:--|
+|Berscheid, Baron, Dermer, and Libman (1973)|피험자에게 점진적으로 더 많은 정보를 제공하게 됨|
+|Asch (1956) and Milgram (1963)|실험에 대한 정보를 더 많이 줄 수록 자원봉사에 참여할 가능성이 낮아짐|
+|King and Confer (reported in Horn,1978)|언어 보상에 의한 단어 사용빈도 측정 연구에서 연구정보를 주면 가설효과가 사라짐|
+|Couper, Singer, Conrad, and Groves (2008)|민감정보 공개 확률 제시는 참여에 영향을 미치지 않으나, 공개로 인한 피해에 대한 정보는 참여율 감소|
+
+
+### 2) Research on Informed Consent Complications in Methodological Studies
+
+
+_(방법론적 연구의 사전설명동의의 복잡성에 관한 연구)_
+
+
+![]<img width="673" alt="Ethic5" src="https://user-images.githubusercontent.com/49752061/56451930-01894500-6369-11e9-9256-b8bfa816f413.PNG">
+
+
+### 3) Summary of Research on Informed Consent in Surveys
+
+
+_(사전설명동의의 복잡성에 관한 연구 요약)_
+
+
+- 조사원이 사전설명동의 규정 조항을 충족시키는 양식에 따라 작성함.
+
+
+- 사전 설명이 연구 참여 및 자료의 질에 미치는 영향은 미비하지만 민감한
+질문에 대한 당혹스러움을 감소시킬 수 있음. 이에 대한 추가 연구가 필요함.
+
+
+- 서명을 해야 하는 경우 거절률이 증가하므로 최소 위험 연구의 경우 IRB에서
+서명을 면제를 권장해야 하며, 이를 뒷받침 할 수 있는 연구가 필요함.
+
+
+
+#토의문제
+
+
+* 윤리적인 연구는 잘 설계된 연구이다. 라는 명제에 대한 본인의생각을 나누어 봅시다.
+
+
+* 빅데이터 자료 공개와 관련해 윤리적 이슈를 고민해 봅시다.
+
+
+
+
