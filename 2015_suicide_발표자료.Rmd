@@ -1,0 +1,41 @@
+---
+title: "Suicide_visualization"
+author: "ysyoon"
+date: '2019 6 9 '
+output: html_document
+---
+
+
+## 2015년 국가별 인구 100,000명당 자살한 사람수 
+
+```{r}
+
+library(tidyverse)
+library(ggplot2)
+library(ggmap)
+library(dplyr)
+library(maps)
+library(mapdata)
+library(mapproj)
+
+
+world_map <- map_data("world")
+nation<-read.csv("raw_data_nation.csv", header=T)
+
+suicide_2015 <- subset(nation,(year==2015), select=c(country, year, total_suicides_100k),sort=F)
+names(suicide_2015)[1] <- c("region")
+head(suicide_2015)
+
+
+Suicide_world <- data.frame(suicide_2015) %>%
+  merge(world_map, by = "region")
+
+
+arrange(Suicide_world, order) %>% 
+  ggplot(aes(x=long, y=lat, group = group, fill = total_suicides_100k)) + 
+  geom_polygon()+
+  scale_fill_continuous(low = "pink", high = "black")
+
+```
+
+
